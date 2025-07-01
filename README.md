@@ -1,42 +1,38 @@
-
-
-<!---
-sreekumar2003/sreekumar2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 <!-- Profile README Template -->
 
-<h1 align="center">Hi there 👋, I'm [Your Name]</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;Open+Source+Enthusiast;Lifelong+Learner&center=true&width=500&height=45" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+There!+I'm+Sreekumar+A.;MCA+Student+|+AI%2FML+Enthusiast+|+Web+Developer&center=true&width=500&height=45" />
+</p>
+
+<h1 align="center">Hi, I'm Sreekumar A 👋</h1>
+<p align="center">
+  MCA Second Year Student | AI/ML Enthusiast | Web Developer
 </p>
 
 <p align="center">
-  <a href="https://github.com/[your-username]"><img src="https://img.shields.io/github/followers/[your-username]?label=Follow&style=social"></a>
-  <a href="https://twitter.com/[your-twitter]"><img src="https://img.shields.io/twitter/follow/[your-twitter]?style=social"></a>
-  <a href="https://www.linkedin.com/in/[your-linkedin]"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"></a>
-  <a href="mailto:[your-email]"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/sreekumara"><img src="https://img.shields.io/github/followers/sreekumara?label=Follow&style=social"></a>
+  <a href="https://twitter.com/sreekumara"><img src="https://img.shields.io/twitter/follow/sreekumara?style=social"></a>
+  <a href="https://www.linkedin.com/in/sreekumara"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"></a>
+  <a href="mailto:sreekumar@example.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
 
 ### 💡 About Me
 
-- 🔭 I’m currently working on **[your current project or role]**
-- 🌱 I’m currently learning **[new technology, concept, etc.]**
-- 💬 Ask me about **[topics you’re confident in]**
-- 👯 I’m looking to collaborate on **open source and impactful projects**
-- ⚡ Fun fact: **[fun fact about you]**
+- 🎓 I’m currently pursuing **MCA (Master of Computer Applications)**, second year.
+- 🌱 I’m passionate about **AI/ML, Data Science**, and I’m actively learning and experimenting in these areas.
+- 💻 I love **coding**, building web applications, and diving deep into the world of **Artificial Intelligence**.
+- 🎬 In my free time, I enjoy **watching movies** and **playing games**.
+- 🔧 Currently improving my skills in **Python**, **C**, **Java**, and **SQL**.
 
 ---
 
 ### 🛠️ Tech Stack
 
 ```bash
-Languages:    Python | JavaScript | TypeScript | C++ | Go
-Frontend:     React | Next.js | HTML | CSS | Tailwind
-Backend:      Node.js | Express | Django | Flask | FastAPI
-Databases:    PostgreSQL | MongoDB | MySQL | SQLite
-DevOps:       Docker | GitHub Actions | Vercel | Netlify
-Tools:        Git | Figma | Postman | VSCode
+Languages:    Python | C | Java | SQL
+Frontend:     HTML | CSS | JavaScript
+AI/ML:        TensorFlow | Keras | scikit-learn | Pandas | NumPy
+Databases:    MySQL | SQLite
+Tools:        Git | VSCode | Jupyter Notebook
