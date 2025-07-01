@@ -11,9 +11,9 @@
 
 <p align="center">
   <a href="https://github.com/sreekumara"><img src="https://img.shields.io/github/followers/sreekumara?label=Follow&style=social"></a>
-  <a href="https://twitter.com/sreekumara"><img src="https://img.shields.io/twitter/follow/sreekumara?style=social"></a>
   <a href="https://www.linkedin.com/in/sreekumara"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"></a>
-  <a href="mailto:sreekumar@example.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://www.hackerrank.com/sreekumara"><img src="https://img.shields.io/badge/-HackerRank-green?style=flat-square&logo=hackerrank&logoColor=white"></a>
+  <a href="https://leetcode.com/sreekumara"><img src="https://img.shields.io/badge/-LeetCode-yellow?style=flat-square&logo=leetcode&logoColor=white"></a>
 </p>
 
 ---
