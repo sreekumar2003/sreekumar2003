@@ -33,6 +33,5 @@
 ```bash
 Languages:    Python | C | Java | SQL
 Frontend:     HTML | CSS | JavaScript
-AI/ML:        TensorFlow | Keras | scikit-learn | Pandas | NumPy
-Databases:    MySQL | SQLite
+Databases:    MySQL
 Tools:        Git | VSCode | Jupyter Notebook
