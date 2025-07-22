@@ -6,7 +6,7 @@
 
 <h1 align="center">Hi, I'm Sreekumar A 👋</h1>
 <p align="center">
-  MCA Second Year Student | AI/ML Enthusiast | Web Developer
+  MCA Student | AI/ML Enthusiast | Web Developer
 </p>
 
 <p align="center">
